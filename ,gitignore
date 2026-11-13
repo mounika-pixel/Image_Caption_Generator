@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+.env
+.streamlit/secrets.toml
+
+
+
+# IDE files
+.vscode/
+*.pydevproject
+*.project
+*.pyc
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Compiled Python modules
+*.pyc
+*.pyo
+*.pyd
+
+# Miscellaneous
+*.log
+*.bak
+*.swp
+
+# Virtual Environments
+.venv/
+venv/
+env/
